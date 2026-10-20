@@ -2,7 +2,7 @@
 ### Experimental algorithmic systems and reliability engineering
 
 **Status:** Private experimental research and development.  
-**Public code:** See the [non-operational FLEX overview](https://github.com/aisachi/flex-bot).  
+**Public overview:** See the [non-operational FLEX documentation](https://github.com/aisachi/flex-bot).  
 **My role:** AI-assisted engineering direction, technical trade-off evaluation, test scope and result review.
 
 ---
